@@ -6,10 +6,10 @@ A majority of corporations which provide online server-based services to clients
 
 ## **Objectives;**
 
-- Track usage of servers: The algorithm tracks the number of servers handling client requests throughout a day and logs each change in the number against a time stamp. This includes simulating scenarios in accordance to possible real-life events for future use.
-- Relate the server usage with time periods: After tracking server usage over a large period of time (e.g. a month), the algorithm then understands the average number of servers used in a particular time period (calculated by making use of the logged time stamps) on a specific day of the week.
-- Relate the server usage with real-world events: The algorithm gives the supervisor the functionality to manually activate a scenario for which the it was already trained (e.g. lock down for a period of time) which would cause the algorithm to manage servers differently as compared to the normal preset.
-- Actively manage server operation: The algorithm will manage the number of servers online at a particular time and adjust the number according to its trained understanding (or in accordance to the preset selected by the supervisor). This would make changes more accurate and less time-consuming.
+- **Track usage of servers:** The algorithm tracks the number of servers handling client requests throughout a day and logs each change in the number against a time stamp. This includes simulating scenarios in accordance to possible real-life events for future use.
+- **Relate the server usage with time periods:** After tracking server usage over a large period of time (e.g. a month), the algorithm then understands the average number of servers used in a particular time period (calculated by making use of the logged time stamps) on a specific day of the week.
+- **Relate the server usage with real-world events:** The algorithm gives the supervisor the functionality to manually activate a scenario for which the it was already trained (e.g. lock down for a period of time) which would cause the algorithm to manage servers differently as compared to the normal preset.
+- **Actively manage server operation:** The algorithm will manage the number of servers online at a particular time and adjust the number according to its trained understanding (or in accordance to the preset selected by the supervisor). This would make changes more accurate and less time-consuming.
 
 ## **Scope of Work;**
 
