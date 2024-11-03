@@ -1,3 +1,13 @@
-**Project Overview;**
+# Overall mind map
 
-A majority of corporations which provide online server-based services to clients have their profits effected due to the large operation and maintenance costs of their always running server hardware. This project aims to assist such corporations in reducing that cost through the use of a real time tracking algorithm which would suggest time slots throughout the day at which a certain number of servers could be powered off in relation to the expected network traffic at the given time. This algorithm may then automate the performance of the required procedure to shut down the servers and then turn them back on when required.
+## Potential Objections;
+ - How to manage irregulatiries in real time data? Audience/client inflow and outflow are never linear.
+
+## Tasks;
+ - [ ] Research AI powered Solar Power Generation (sensing mechanism)
+ - [ ] Research how AI is used in Hyrdopnics ([This video may be helpful](https://www.youtube.com/watch?v=aJ10nmNrgWY))
+ - [ ] How do mobile phone companies produce adaptive refresh rate displays?
+
+## Recommendations;
+ - Add more texture to the project design
+ - Brainstorm about deliverables
