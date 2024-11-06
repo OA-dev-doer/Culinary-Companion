@@ -14,78 +14,14 @@ Do you ever wish that your food would cook itself because it is too much of a tr
 
 ## **Scope of Work;**
 
-**Phase 1: Research;**
+**Research;**
 
-Conduct comprehensive research on suitable hardware components, including mechanical arms for utensil handling and video cameras for motion tracking. This phase will also involve studying the limitations of colour identification and clarity in cameras to determine optimal colour schemes for utensils and ingredient containers to facilitate easy recognition.
+In the research phase of the project, we will identify suitable hardware for handling utensils and tracking motion, focusing on mechanical arms and video cameras. We will explore how well these cameras recognize colors and their clarity, as well as the challenges of identifying colors in low light. Our goal is to find the best color schemes for utensils and containers to improve recognition. The development team will also use documentation and expert advice to understand the necessary frameworks for implementing these technologies effectively.
 
-**Phase 2: System Development;**
-
-- Hardware Integration: Assemble mechanical arms with appropriate sensors and cameras capable of tracking user movements.
-- Software Development: Create a software framework using Python that integrates machine learning libraries (e.g., TensorFlow) for real-time learning from user actions.
-- User Input System: Develop a module allowing users to input recipes and preferences, which the robot will learn from.
-
-**Phase 3: Testing (1);**
-
-- Testing Platform: Set up a kitchen environment equipped with the necessary hardware for testing.
-- Test Data Collection**:** Observe users as they cook various dishes over a week, collecting data on their techniques for analysis.
-- Initial Feedback Analysis: Evaluate how well the robot replicates cooking actions based on initial observations.
-
-**Phase 4: Algorithm Training;**
-
-- Training Scenarios: Simulate various cooking scenarios where users can provide feedback on the robot's performance.
-- Adaptive Learning: Implement feedback loops allowing the robot to adjust its techniques based on user preferences and outcomes.
-
-**Phase 5: Testing (2);**
-
-- Refined Testing Environment: Utilize the kitchen setup from Phase 3 for further testing.
-- User Interaction Trials: Conduct trials where users interact with the robot while it attempts to replicate their cooking techniques in real-time.
-
-**Phase 6: Final Integration;**
-
-- Integrate all hardware components with refined software. Ensure that the robot can seamlessly transition between tasks such as ingredient preparation, cooking, and serving based on user commands.
-
-**Phase 7: Final Testing;**
-
-- Conduct extensive testing of the fully integrated system in a real-world kitchen environment. Monitor performance in various cooking scenarios to ensure reliability, accuracy, and responsiveness.
-
-## **Project Timeline;**
-
-**Phase 1: Research;**
-
-- Expected duration: 5 days
-- Expected completion: By the end of week 1
-
-**Phase 2: System Development;**
-
-- Expected duration: 4 weeks
-- Expected completion: By the end of week 5
-
-**Phase 3: Testing (1);**
-
-- Expected duration: 2 weeks
-- Expected completion: By the end of week 7
-
-**Phase 4: Algorithm Training;**
-
-- Expected duration: 4 weeks
-- Expected completion: By the end of week 11
-
-**Phase 5: Testing (2);**
-
-- Expected duration: 1 week
-- Expected completion: By the end of week 12
-
-**Phase 6: Final Integration;**
-
-- Expected duration: 2 weeks
-- Expected completion: By the end of week 14
-
-**Phase 7: Final Testing;**
-
-- Expected duration: 2 weeks
-- Expected completion: By the end of week 16
-
-**Total predicted duration: 19 Weeks (4.5 months)**
+**Development;**
+- Software Development: Create a software framework using Python that integrates machine learning libraries for analyzing and learning from video footage.
+- User Input System: Develop a module allowing users to input recipes and preferences, which the robot will learn from. Also enable the functionality of accessing a video camera for footage.
+- Algorithm Training; Video footage of people cooking dishes sourced from social media will be input as training data.
 
 ## **Conclusion;**
 
