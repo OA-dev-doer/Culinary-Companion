@@ -7,7 +7,7 @@ Do you ever wish that your food would cook itself because it is too much of a tr
 ### **Phase 0: Pre-development formalities;**
 
 - [x] Form project development team (6/11/24)
-- [ ] Discuss responsibilities and how they are to be distributed among members
+- [x] Discuss responsibilities and how they are to be distributed among members
 - [ ] Setup required for software/accounts (Github, slack, VSCode etc)
 - [ ] Finalise resources for learning journey with Ammad
 - [ ] Get green light to begin
