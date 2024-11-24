@@ -1,0 +1,6 @@
+| **Targets** (idealistically) | **Architectures** | **Dataset** | **Optimization** |
+| :--------------------------: | :---------------: | :---------: | :--------------: |
+| Setup a translation algorithm/framework (trained ML model) which analyzes the video input and translates all motion into instructions | *Architecture for Target 1* | *Dataset for Target 1* | **Kalman Filtering:** For real-time tracking and prediction in dynamic systems, which helps filter out noise from the instruction data. **Savitzky-Golay Filter:** This technique smooths data while preserving key features, making it suitable for refining motion data into clearer instructions. **Gaussian blur** |
+| Pass the instructions through a refining algorithm which removes unwanted instructions and noise in the data | *Architecture for Target 2* | *Dataset for Target 2* | *Optimization tools* |
+| Setup a database which stores all instructions in the appropriate order, and differentiates different sets of instructions | *Architecture for Target 3* | *Dataset for Target 3* | *Optimization tools* |
+| Display a front end interface which provides the user with simple options to begin recording and to perform pre-recorded action replication | *Architecture for Target 4* | *Dataset for Target 4* | *Optimization tools* |
